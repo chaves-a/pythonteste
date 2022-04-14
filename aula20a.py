@@ -10,4 +10,3 @@ print('  CADASTRO DE FUNCIONÁRIOS  ')
 lin()
 print('      ERRO DO SISTEMA       ')
 lin()
-
