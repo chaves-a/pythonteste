@@ -1,0 +1,10 @@
+
+:
+
+aula19a.py,5/b/5b3f1d391ced6e57e506f810007a84ca5794cc6c
+:
+
+aula19c.py,d/0/d00da9771c61fcd9989f2dea6d8f2a5b21447eba
+:
+
+aula19b.py,f/4/f4d1f7b1e581988b51a28593c43c03ed2ef588b1
